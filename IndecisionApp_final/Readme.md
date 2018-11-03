@@ -1,4 +1,4 @@
 This version includes
-> styling using SCSS with webpack
-> babel for compiling the jsx to ES5
-> webpack for dev server
+<p>> styling using SCSS with webpack </p>
+<p>> babel for compiling the jsx to ES5 </p>
+<p>> webpack for dev server</p>
